@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Elizabeth Adegbaju</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Each app that you create with Android Studio starts with a default launcher icon that represents the app.
+        \nLauncher icons are sometimes called app icons or product icons.
+        \nIf you publish an app on Google Play, the app\'s launcher icon appears in the app\'s listing and search results in the Google Play store.
+        \nAfter an app is installed on an Android-powered device, the app\'s launcher icon appears on the device\'s home screen and elsewhere on the device.
+        \nFor example, the Android Sunflower app\'s launcher icon appears in the device\'s Search Apps window, shown as 1 in the screenshot below.
+        \nThe default launcher icon, shown as 2 below, is used initially for all app projects that you create in Android Studio.
+        \nExperiment with adding an ImageView above the TextView inside the ScrollView.
+        \nWhen you run the app, this image, unlike the star, will scroll out of view as the text scrolls up.
+    </string>
+    <string name="username_question">What is your Nickname?</string>
+    <string name="username">Username</string>
+    <string name="done">Done</string>
+</resources>
